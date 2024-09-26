@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
+  
+  # 👋 Olá, sou Evellyn Oliveira 👋
+  <br><hr>
 
-<!--
-**EvyDev98/EvyDev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## 🌟 Sobre mim 🌟
+  
+  Sou desenvolvedora apaixonada por tecnologia e programação. Sempre buscando aprender e compartilhar conhecimento.
+  
+  <br><hr>
+  
+  ## 🎯 Propósito do Perfil 🎯 
+  
+  Este perfil tem como objetivo profissional a criação e desenvolvimento de projetos inovadores para a empresa. Aqui, compartilho minhas habilidades e experiências, visando colaborar em iniciativas que tragam soluções eficazes e criativas. Estou sempre aberta a troca de conhecimentos, buscando impulsionar o crescimento e a inovação no ambiente corporativo.
+</div>
 
-Here are some ideas to get you started:
+  <br><hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+## 🌍 Linguagens e Tecnologias 🌍
+
+  <br>
+  
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EvyDev98&layout=compact&theme=dark)
+  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EvyDev98&show_icons=true&theme=dark)
+  
+  ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=EvyDev98&theme=dark)
+
+</div>
+
